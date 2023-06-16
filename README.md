@@ -33,6 +33,13 @@ __________________________________________________________
 
 ## About
 This API for FaceU Skin Detection.
+| Method  | Endpoint         | Description                                                                         |
+| -----   | ----------       | ------------------                                                                  |
+| GET     | `/products`      | Returns an array of `product`                                                       |
+| POST    | `/predict_image` | Store images to Cloud Storage. Invalid entries response will be 400                 |
+| GET     | `/show_predictions`  | Returns an array of `predictions`                                               |
+| GET     | `/get_images`    | Returns an array of `images`                                                        |
+
 
 ## Made with FastAPI 🚀
   * Deploy on Google Cloud Run
