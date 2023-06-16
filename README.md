@@ -36,6 +36,7 @@ This API for FaceU Skin Detection.
 
 ## Made with FastAPI 🚀
   * Deploy on Google Cloud Run
+  * Image Stored in Google Cloud Storage
 
 ## © Copyright C23-PS429
   Capstone Project FaceU - Bangkit Academy 2023
