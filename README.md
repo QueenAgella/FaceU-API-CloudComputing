@@ -1,6 +1,8 @@
 # FaceU Machine Learning Model API Deployment
 
-<center> **Architecture Cloud** </center> <br>
+:::center
+**Architecture Cloud** <br>
+:::
  ![Image](architecturecloud.png "image") <br>
 
 **Url**
